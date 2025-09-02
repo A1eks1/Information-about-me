@@ -7,7 +7,7 @@
 
 ## Мои хобби:
 ### 1. Играю в видеоигры, любимая игра Kingdom Come: Deliverance II
-![Логотип игры](img.png)
+![Логотип игры](https://avatars.mds.yandex.net/i?id=f67328450dcf844c3c492e75806a95efc867723a-5434889-images-thumbs&n=13)
 ### 2. Бегаю
 ![Картинка бега](https://avatars.mds.yandex.net/i?id=7e4513d25326a31bbcc74bebbf7bba011c829840-5295252-images-thumbs&n=13)
 ### 3. Болею за ФК Барселона 
